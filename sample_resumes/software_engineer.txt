@@ -1,0 +1,8 @@
+Software Engineer Resume
+
+Skills:
+Python, FastAPI, Django, REST APIs, SQL, PostgreSQL, Docker, Git, Linux.
+
+Experience:
+Built backend APIs and automation services using Python and FastAPI.
+Worked with databases, unit testing, Git and containerized deployments.

@@ -1,0 +1,7 @@
+DevOps Resume
+
+Skills:
+AWS, Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Linux, CI/CD.
+
+Experience:
+Built CI/CD pipelines, automated deployments and managed cloud infrastructure.

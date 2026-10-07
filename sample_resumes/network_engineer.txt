@@ -1,0 +1,7 @@
+Network Engineer Resume
+
+Skills:
+Cisco, routing, switching, TCP/IP, VLAN, OSPF, DNS, DHCP, VPN, firewalls.
+
+Experience:
+Configured network devices, troubleshot connectivity issues and maintained LAN/WAN infrastructure.

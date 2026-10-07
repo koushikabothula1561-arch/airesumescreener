@@ -1,0 +1,8 @@
+Data Scientist Resume
+
+Skills:
+Python, pandas, NumPy, scikit-learn, SQL, statistics, machine learning, data visualization.
+
+Experience:
+Built classification and regression models, performed exploratory data analysis,
+created predictive models and prepared datasets for machine learning.
